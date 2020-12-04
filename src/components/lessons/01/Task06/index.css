@@ -1,0 +1,8 @@
+.app-transformable-target {
+  position: relative;
+  width: 100%;
+  max-height: 430px;
+  height: 70vw;
+  border: 2px solid black;
+  overflow: hidden;
+}
